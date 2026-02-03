@@ -1,43 +1,72 @@
 # 3DF SpA 🚀  
-**Desarrollo de Software a Medida**
+### Desarrollo de Software a Medida
 
-Somos **3DF SpA**, una empresa de desarrollo de software enfocada en crear soluciones digitales modernas, escalables y bien pensadas. Nos apasiona transformar ideas en productos reales, funcionales y alineados con los objetivos de cada negocio.
-
-Creemos en el software bien hecho, en la comunicación clara y en acompañar a nuestros clientes desde la idea inicial hasta la puesta en producción (y más allá).
-
----
-
-## 🛠️ Tecnologías que usamos
-
-Trabajamos con tecnologías modernas y probadas, priorizando rendimiento, mantenibilidad y experiencia de usuario:
-
-- **Node.js** – Backends rápidos y eficientes  
-- **Nest.js** – Arquitecturas robustas y escalables  
-- **Vue.js** – Interfaces dinámicas y amigables  
-- **Astro** – Sitios web ultra rápidos y optimizados  
-
-Siempre estamos abiertos a evaluar nuevas herramientas si el proyecto lo requiere.
+![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ---
 
-## 📬 Contacto y Redes
+## 👋 Quiénes somos
 
-¿Hablamos? Puedes encontrarnos en:
+Somos **3DF SpA**, una empresa de desarrollo de software enfocada en crear productos digitales modernos, eficientes y escalables.  
+Diseñamos y construimos soluciones tecnológicas alineadas con objetivos reales de negocio, cuidando tanto la arquitectura como la experiencia de usuario.
 
-- 📸 **Instagram:** [https://instagram.com/3dfspa](https://instagram.com/3dfspa)  
+Nos involucramos en cada proyecto como socios tecnológicos, no solo como proveedores.
+
+---
+
+## 🧠 Qué hacemos
+
+- Desarrollo de aplicaciones web
+- Backends y APIs escalables
+- MVPs para startups
+- Plataformas internas y sistemas a medida
+- Asesoría técnica y arquitectura de software
+
+---
+
+## 🛠️ Stack Tecnológico
+
+Utilizamos tecnologías modernas y ampliamente adoptadas en la industria:
+
+- **Node.js** — Servicios backend rápidos y eficientes  
+- **Nest.js** — Arquitecturas limpias, mantenibles y escalables  
+- **Vue.js** — Interfaces modernas y reactivas  
+- **Astro** — Sitios web ultra rápidos y optimizados para SEO  
+
+> Elegimos la tecnología según el problema, no al revés.
+
+---
+
+## 📬 Contacto
+
+Conversemos 👇
+
+- 📸 **Instagram:** https://instagram.com/3dfspa  
 - 💬 **WhatsApp:** +56 9 1234 5678  
 - ✉️ **Email:** contacto@3df.cl  
-- 💼 **LinkedIn:** [https://linkedin.com/company/3dfspa](https://linkedin.com/company/3dfspa)
+- 💼 **LinkedIn:** https://linkedin.com/company/3dfspa  
 
 ---
 
-## 💡 ¿Tienes una idea pero no sabes por dónde empezar?
+## 💡 ¿Tienes una idea o proyecto en mente?
 
-No necesitas llegar con todo resuelto. Muchas veces las mejores ideas parten como algo difuso, un problema recurrente o una oportunidad detectada.  
-En **3DF SpA** te ayudamos a **dar forma a tu idea**, definir el alcance, elegir la mejor tecnología y convertirla en un producto digital real.
+No necesitas llegar con una especificación perfecta.  
+Si tienes una idea, un problema por resolver o un proyecto que no sabes bien cómo aterrizar, en **3DF SpA** te ayudamos a:
 
-Si tienes un proyecto en mente, una idea dando vueltas o simplemente quieres saber qué tan viable es lo que imaginas, **escríbenos**. Nos encanta conversar, proponer soluciones y construir cosas nuevas 🚀
+- Definir el alcance
+- Validar la viabilidad técnica
+- Elegir el stack adecuado
+- Convertir tu idea en un producto real
+
+Escríbenos y lo vemos juntos. Nos encanta construir cosas desde cero 🚀
 
 ---
 
-**3DF SpA** — Creamos software que impulsa ideas.
+<p align="center">
+  <strong>3DF SpA</strong><br/>
+  Creamos software que impulsa ideas
+</p>
