@@ -6,11 +6,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,vue,astro,angular"/>
   </a>
 </p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,firebase"/>
-  </a>
-</p>
 
 ---
 
